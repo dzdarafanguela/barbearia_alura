@@ -1,11 +1,31 @@
 body {
 	background: #CCCCCC
 }
+ hl {
+	text-align:  center;
+ }
 
-p {
-	text-align: center;
-}
+  p{
+	text-align:  center;
+  }
 
 em strong {
 	color: #FF0000;
 }
+
+#missao {
+	font-size: 20px;
+}
+
+  .itens{
+	font-synthesis: italic;
+  }
+
+
+h2 {
+     text-align: center ;
+}
+
+ .imagembeneficios { 
+	width:50%;
+ }
